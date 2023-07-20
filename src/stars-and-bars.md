@@ -43,7 +43,7 @@ The amount of quintuples $(x_1, x_2, x_3, x_4, x_5)$ which satisfy these conditi
 
 This number is small enough to actually list out the set of quintuples:
 
-$$ S = \{(1, 2, 2, 1, 1), (1, 3, 1, 1, 1), (1, 1, 2, 2, 1), (2, 1, 1, 1, 2), (1, 1, 1, 1, 3), (1, 2, 1, 2, 1), (1, 1, 3, 1, 1), (2, 1, 2, 1, 1), (1, 2, 1, 1, 2), (2, 2, 1, 1, 1), (1, 1, 2, 1, 2), (1, 1, 1, 2, 2), (1, 1, 1, 3, 1), (2, 1, 1, 2, 1), (3, 1, 1, 1, 1)\} $$
+$S = \{(1, 2, 2, 1, 1), (1, 3, 1, 1, 1), (1, 1, 2, 2, 1), (2, 1, 1, 1, 2), (1, 1, 1, 1, 3), (1, 2, 1, 2, 1), (1, 1, 3, 1, 1), (2, 1, 2, 1, 1), (1, 2, 1, 1, 2), (2, 2, 1, 1, 1), (1, 1, 2, 1, 2), (1, 1, 1, 2, 2), (1, 1, 1, 3, 1), (2, 1, 1, 2, 1), (3, 1, 1, 1, 1)\}$
 
 By inspecting this set of quintuples, it's evident that there are only 2 unique quintuples: $(1,1,1,2,2)$ and $(1,1,1,1,3)$, and all other quintuples in the set are permutations of these base quintuples.
 

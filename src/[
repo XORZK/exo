@@ -95,18 +95,8 @@ double det(matrix<double> M) {
     if (M.rows() == 1) {
         return M[0][0];
     }
-
-    d = 0;
-
-    // Perform Cofactor Expansion on the ith row.
-    uint64_t i = 0;
-
-    for (uint64_t j = 0; j < M.rows(); j++) {
-        // Calls det(M(i,j)) 
-        d += M[i][j] * ((i + j) % 2 == 0 ? 1 : -1) * det(M.minor(i,j));
-    }
-
-    return d;
 }
+
+printf("%d", 10);
 ```
 
