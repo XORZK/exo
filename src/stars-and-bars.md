@@ -1,6 +1,7 @@
 ---
 title: Stars and Bars 
 date: 07-12-2023
+author: Henry W.
 ---
 
 Within the mathematical field of combinatorics and contest mathematics, stars and bars is a popular idea for deriving certain theorems regarding the distribution of identical objects into distinct boxes. 

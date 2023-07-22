@@ -109,4 +109,3 @@ double det(matrix<double> M) {
     return d;
 }
 ```
-
